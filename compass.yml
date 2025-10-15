@@ -1,0 +1,13 @@
+name: velero
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/4a3f1f8d-0053-4547-ad5b-564b06c26955
+description: Backup and migrate Kubernetes applications and their persistent volumes
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
